@@ -19,7 +19,7 @@ import {
 import './styles.css';
 
 const links = {
-  github: 'https://github.com/CLaxina',
+  github: 'https://github.com/Claxinaragel',
   linkedin: 'https://www.linkedin.com/in/claxina-ragel/',
   behance: 'https://www.behance.net/claxina_ragel',
   email: 'mailto:claxinadesigns@gmail.com',
