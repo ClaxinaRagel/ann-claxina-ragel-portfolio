@@ -6,7 +6,7 @@ Modern personal portfolio website for Ann Claxina Ragel, built with React and Vi
 
 When this repository is pushed to `CLaxina/ann-claxina-ragel-portfolio` and GitHub Pages is enabled, the site will be available at:
 
-`(https://claxinaragel.github.io/ann-claxina-ragel-portfolio/)`
+`https://claxinaragel.github.io/ann-claxina-ragel-portfolio/`
 
 ## Local Development
 
